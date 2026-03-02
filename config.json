@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FEFEFE",
+            "lang-select-color": "#222829",
+            "bg-light": "#E0BD7B",
+            "welcome-bonus-bg": "#FEFEFE",
+            "top-games-hover-fg": "#FBBB1B",
+            "main-bg": "#f7f2e8",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#FBBB1B",
+            "text-head": "#141414",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B00202",
+            "yellow": "#FBBB1B",
+            "yellow-button": "#141414",
+            "button-text": "#141414",
+            "main-button-text": "#FBBB1B",
+            "border-color": "#d9d4d4",
+            "casino-cards": "#FEFEFE",
+            "bonus-border-head": "#141414",
+            "bonus-border": "#FBBB1B",
+            "providers-back": "#E0BD7B",
+            "faq-label": "#FEFEFE",
+            "bg-footer": "#E0BD7B",
+            "copyright": "#e7e7d5",
+            "starColor": "#B00202",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3695"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3697",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Intensity Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3698",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Intensity Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Intensity Casino",
+                    "title": "Intensity Casino: Welcome Bonuses Up to 5,000, Free Spins, Cashback & Tournaments",
+                    "description": "Play at Intensity Casino with thousands of pokies, live casino tables, jackpots, daily missions, and cashback up to 20%. Enjoy a smooth cashier, fast payouts, and generous promos for new and returning players.",
+                    "canonical": "intensitycasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3699",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "intensitycasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3700"
+                },
+                "hero": {
+                    "title": "Intensity Casino — Bonuses, Pokies, Live Dealers & Fast Payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3701",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3702",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Welcome bonus up to 5,000 + spins",
+                        "Up to 20% cashback every week",
+                        "5% daily rebate on net losses",
+                        "Thousands of pokies, including jackpots",
+                        "HD live dealers with flexible stakes",
+                        "Fast payouts with a smooth cashier",
+                        "Mobile play, quick access, no hassle"
+                    ],
+                    "advantagesAfterText": "We built Intensity Casino as a high-energy destination where everything is designed for your comfort—from game discovery to fast cashouts. We deliver generous promos, clear offer rules, and regular events so every session feels rewarding. Our focus is fair play, convenience, and strong value for both new and returning players.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Intensity Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3703",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Intensity Casino App",
+                    "mobileGooglePlayImageTitle": "Intensity Casino App",
+                    "mobileIosImageTitle": "Intensity Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Intensity Casino",
+                        "description1": "We stand out for speed: deposits and withdrawals are built to keep you playing without delays. We boost winning potential with promos and activity rewards, so every bet unlocks more opportunities.\n",
+                        "items": [
+                            "Bonus up to 5,000.",
+                            "Cashback up to 20%.",
+                            "Cashouts in minutes."
+                        ],
+                        "description2": "At Intensity Casino, we’ve designed everything to make your experience vivid, fast, and packed with rewards. Our interface helps you instantly find your favorite pokies, table games, and live tables. We’ve built a huge slots collection with different volatility levels, bonus rounds, and progressive jackpots, so you can choose the pace and style that fits you. In our live section, you’ll enjoy real dealers and a true casino vibe where every hand feels authentic. We run frequent promotions—deposit boosts, free spins, and cashback—so you get extra value more often. Our welcome offers help you start with a stronger bankroll and rewarding extras on your early deposits. For active players, we add missions and tasks that pay you back for daily play and reaching goals. We also host seasonal events tied to major gaming periods, bringing extra gifts and exclusive promos. We run slot tournaments where consistency and luck matter, and prizes are awarded through leaderboards. Your entertainment isn’t limited to one format: you can mix quick slots, strategic table games, and high-energy live sessions. We keep the cashier smooth so deposits feel effortless and withdrawals stay clear and reliable. Verification is structured to protect your account and speed up future cashouts. We support mobile play so you can jump in anytime and continue right where you left off. For returning players, our loyalty program offers levels, bonuses, and personalized perks as you stay active. We reward engagement with cashback, bonus credits, and invitations to special promos. Our support team helps with account, bonus, and payment questions so you always feel confident. At Intensity Casino, we combine strong offers, a massive game selection, and player-friendly services to maximize your fun and winning opportunities.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3704",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "In our live section, you’ll enjoy real dealers and a true casino vibe where every hand feels authentic. We run frequent promotions—deposit boosts, free spins, and cashback—so you get extra value more often. Our welcome offers help you start with a stronger bankroll and rewarding extras on your early deposits. For active players, we add missions and tasks that pay you back for daily play and reaching goals. We also host seasonal events tied to major gaming periods, bringing extra gifts and exclusive promos. We run slot tournaments where consistency and luck matter, and prizes are awarded through leaderboards. Your entertainment isn’t limited to one format: you can mix quick slots, strategic table games, and high-energy live sessions. We keep the cashier smooth so deposits feel effortless and withdrawals stay clear and reliable. Verification is structured to protect your account and speed up future cashouts. We support mobile play so you can jump in anytime and continue right where you left off. For returning players, our loyalty program offers levels, bonuses, and personalized perks as you stay active. We reward engagement with cashback, bonus credits, and invitations to special promos. Our support team helps with account, bonus, and payment questions so you always feel confident. At Intensity Casino, we combine strong offers, a massive game selection, and player-friendly services to maximize your fun and winning opportunities.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Intensity Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntry Rules & Responsible Play at Intensity Casino\n<\/h3>\n\n<p>\nWe welcome players who value a safe, comfortable experience with clear rules. Access to our casino is limited to adults, and registration requires accurate personal details. We ask you to keep your information up to date so payments stay smooth and consistent. To protect your account, we recommend a strong password and never sharing access with anyone else. We support responsible play and encourage you to set personal limits on deposits and bets. Any fraud attempts, multi-accounting, or bonus abuse are blocked to protect a fair environment. We may request identity verification to enhance security and follow standard procedures. Using software that interferes with gameplay is strictly prohibited. In disputes, we rely on transaction logs and game history to restore an objective view. Our rules are built so you can play calmly, confidently, and with maximum enjoyment. We’re always ready to guide you on bankroll control and self-management tools. If needed, you can temporarily restrict play or close your account via support.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & access: adults only with verifiable details.\n\n<\/li>\n            <li>• \nRegistration: one account per player and one set of payment details.\n\n<\/li>\n            <li>• \nVerification: identity\/address checks to protect accounts and cashouts.\n\n<\/li>\n            <li>• \nFair play: follow promo, tournament, and bonus rules.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMulti-accounting: creating multiple accounts for extra benefits.\n\n<\/li>\n            <li>• \nBonus abuse: schemes that break wagering\/credit rules.\n\n<\/li>\n            <li>• \nThird-party tools: bots, scripts, autoclickers, or interference software.\n\n<\/li>\n            <li>• \nAccount sharing: sharing access or using someone else’s payment methods.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: deposits, bets, session time, and loss limits you control.\n\n<\/li>\n            <li>• \nTime-out: pause play for a chosen period.\n\n<\/li>\n            <li>• \nSelf-exclusion: longer restrictions when needed.\n\n<\/li>\n            <li>• \nSupport: help setting limits and managing habits.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing, Data Protection & Privacy at Intensity Casino\n<\/h3>\n\n<p>\nWe operate under an international license and follow transparent procedures that help maintain fair play and protect our players. Licensing standards define how payments are handled, how fairness controls are applied, and how responsible play rules are supported. We continuously improve internal processes to match current security and verification requirements. Our goal is to give you a predictable, protected experience from registration to withdrawals. We build trust through consistent practice, not just promises.\n\n<\/p>\n<br>\n\n\n<p>\nWe apply modern data protection methods across both infrastructure and user-facing systems. Information transferred between your device and our servers is protected with encryption, reducing interception risks. We segment access to sensitive data so only authorized systems and staff can use it for service needs. Monitoring tools help detect suspicious activity and prevent unauthorized access attempts. We also add extra account protection steps when significant changes occur.\n\n<\/p>\n<br>\n<p>\nFinancial security is a top priority, so transactions are processed through protected payment channels with layered controls. We use checks that align account ownership with payment methods to reduce fraud. To speed up cashouts and strengthen security, we apply identity verification—especially for first withdrawals or when payout details change. Every operation is logged, enabling fast resolution for deposit, bonus, and withdrawal questions. Our goal is for you to feel confident when funding your balance and cashing out winnings.\n\n<\/p>\n<br>\n<p>\nOur privacy approach follows a “minimum necessary” principle for data collection. We request only what’s needed for registration, security, compliance procedures, and payment processing. We do not sell personal data and we don’t use it outside stated purposes. You can manage communication preferences and choose which notifications you receive. If needed, you can request details about the data we process and update it via support.\n\n<\/p>\n<br>\n<p>\nWe also focus strongly on game integrity and protection against interference. For slots and digital games, we rely on verifiable randomness mechanisms, and for live games we provide transparent streaming and clear rules. We monitor abnormal behavior patterns to keep conditions fair for everyone. Promotions and bonuses come with wagering rules so you understand how credits are granted and used. All of this supports a stable and secure environment.\n\n<\/p>\n<br>\n<p>\nFinally, we continuously strengthen our security culture by updating systems, tightening access controls, and training teams. We recommend using extra safeguards, keeping passwords private, and playing on personal devices. If you notice suspicious activity, we’ll help protect your account and review transaction history quickly. Support is ready to explain any privacy points in plain language. We want you to feel in control, informed, and comfortable at every step.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals: Methods, Timing, and Limits at Intensity Casino\n<\/h3>\n\n<p> \nAt Intensity Casino, we built a cashier that’s simple and fast, so you can fund your balance and cash out winnings with minimal steps. We support widely used payment options, including instant transfers and modern digital methods. Deposits typically arrive quickly, letting you jump straight into play and activate bonuses. Withdrawals go through protected procedures and confirmation steps so your funds reach the right destination. We apply data checks and transaction controls to reduce errors and keep payouts reliable. Cashout timing depends on the method you choose and whether your account verification is complete. We aim to speed up approvals, especially for returning players with verified details. Your account shows payment statuses and a clear transaction history for full transparency. We recommend using the same payment method for deposits and withdrawals for the smoothest flow. If you need guidance, support will help you pick the best withdrawal option. We also provide limits to support bankroll control and responsible play. Our goal is a cashier experience that’s confident, clear, and fast.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #141414;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>PayID \/ instant transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant–5 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15 minutes–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5–60 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank cards<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant–15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto currency<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5–30 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15 minutes–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E-wallets<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant–10 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15 minutes–24 hours<\/td>\n    <\/tr>\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum and maximum limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 20 (method\/currency equivalent)\n\n<\/li>\n            <li>• \nDaily maximum: up to 10,000\n\n<\/li>\n            <li>• \nMonthly maximum: up to 100,000\n\n<\/li>\n            <li>• \nHigher limits: available with active play and a verified profile\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nIntensity Casino Support: Fast, Convenient, and Clear\n<\/h3>\n\n<p>\nWe built our support experience to deliver help without delays or unnecessary back-and-forth. Our team covers the essentials: registration, verification, bonuses, tournaments, payments, and technical questions. Live chat is designed for quick resolutions so you can get back to playing. Email is perfect for documents and detailed answers in more complex cases. Phone support works best when you want fast contact and step-by-step guidance. We keep communication friendly, confident, and easy to understand. We prioritize urgent requests so payout and access issues move faster. We can check transaction statuses and help correct details to keep everything smooth. For comfort, we offer assistance in multiple languages. We also guide you through promo rules—how to activate offers, track progress, and receive credits. If you want to set limits or pause play, support will help enable responsible gaming tools. Our goal is to make your next step always clear and effective.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: quick help with gameplay, promos, and cashier\n\n<\/li>\n            <li>• \nEmail: documents, verification, detailed case reviews\n\n<\/li>\n            <li>• \nPhone: fast assistance and guided steps\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–5 minutes to first reply\n\n<\/li>\n            <li>• \nEmail: typically 1–12 hours depending on complexity\n\n<\/li>\n            <li>• \nPhone: quick contact during line hours\n\n<\/li>\n            <li>• \nService standard: clear instructions, status checks, guidance until resolved\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrimary: English\n\n<\/li>\n            <li>• \nAdditional: multilingual assistance via agents and help templates\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Intensity Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nIntensity Club Loyalty Program: Levels, Bonuses & Perks\n<\/h3>\n<p>\nWe built Intensity Club to turn your activity into real value in every session. The loyalty program awards points for real-money bets across slots, table games, and live play, then converts them into perks and rewards. The more you play, the faster you level up and the stronger your benefits become. We keep levels easy to follow: your profile shows progress, requirements, and unlocked rewards. Membership boosts the value of deposits, increases cashback, and unlocks extra gifts. Higher tiers bring faster handling and tailored promotions. We also add seasonal and personal bonuses so special dates feel rewarding. Terms stay transparent: points track automatically and rewards activate in a few clicks. For fairness, we count valid wagers only and exclude actions that break rules. We recommend combining Intensity Club with daily missions and tournaments to climb levels faster. At any time, you can review your points history and redeemed rewards. Intensity Club is our way of thanking you for choosing us.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto-enrollment: you join right after creating an account\n\n<\/li>\n            <li>• \nVerified details: accurate profile info helps rewards run smoothly\n\n<\/li>\n            <li>• \nPoints earning: real-money wagers in eligible games\n\n<\/li>\n            <li>• \nFair play: follow promo rules and one-account policy\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels and how to reach them\n\n<\/h4>\n\n <ul>\n            <li>• \nNeon (starter): activated instantly. Perk: +10% points boost on slots\n\n\n\n\n\n<\/li>\n            <li>• \nPulse: from 1,000 points.\nPerk: cashback up to 5% weekly\n\n\n\n\n<\/li>\n            <li>• \nTurbo: from 5,000 points.\nPerk: up to 50 free spins weekly on selected slots\n\n\n\n\n<\/li>\n            <li>• \nVoltage: from 15,000 points.\nPerk: cashback up to 10% + higher cashout limits\n\n\n\n\n<\/li>\n\t    <li>• \nTitan: from 40,000 points.\nPerk: personal package up to 500 + faster payouts\n\n\n\n\n<\/li>\n\t    <li>• \nLegend: from 100,000 points.\nPerk: cashback up to 20% + exclusive private promos\n\n\n\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll Intensity Club rewards\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPoints conversion: swap points for bonus funds (e.g., 1000 points = 10)\n\n<\/li>\n            <li>• \nWeekly cashback: up to 20% at top levels\n\n<\/li>\n            <li>• \nGifts: free spins and bonus credits by tier\n\n<\/li>\n            <li>• \nPersonal promos: boosted deposit offers\n\n<\/li>\n\t    <li>• \nSurprises: birthday bonus and seasonal gifts\n\n<\/li>\n\t    <li>• \nPriority: faster request handling and VIP assistance at top tiers\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nIntensity Casino Bonuses, Wins & Special Offers: Promos, Events, Seasons\n<\/h3>\n\n<p>\nWe keep our bonus system lively and varied, so rewards don’t stop after sign-up—they continue in every session. We offer welcome packages that boost early deposits and add free spins on popular slots. For regular play, we add cashback and rebates so you feel supported day after day. We run daily missions with fixed rewards and extra bonuses for completion streaks. Our team refreshes the promotions area often, adding deposit races and gameplay challenges. Slots frequently feature themed weeks where selected games unlock extra free spins or stronger bonus triggers through activators. For competitive players, we host tournaments with prize pools where leaders win cash rewards and free spin bundles. We also bring momentum to live play with special table offers and seasonal events. Limited-time deals are common, designed for quick activation and maximum value per deposit. A key part of our system is clarity: you always see terms, expiry time, and wagering progress. We reward variety—switch between slots, tables, and live to unlock different promo mechanics. For big moments, we launch seasonal campaigns with gifts, draws, and boosted rewards. Some offers grant tickets or coupons for deposits, which you can exchange for prizes. We keep a high pace: bonuses credit fast and notifications help you catch new deals. The result is not a single bonus, but a full rewards ecosystem that makes play more exciting and valuable. We continuously introduce new promo formats so you always find something that matches your style.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTop bonuses & offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome package: up to 5,000 bonus funds + up to 150 free spins.\nStrong start and extended bankroll value\n\n\n\n\n<\/li>\n            <li>• \nFirst deposit bonus: up to 100% + free spins (e.g., 100 FS).\nQuick balance boost and a starter slot bundle\n\n\n\n\n\n<\/li>\n            <li>• \nSecond deposit bonus: up to 75% + free spins (e.g., 50 FS).\n\nKeeps momentum and boosts bonus-round chances\n\n\n\n<\/li>\n            <li>• \nWeekly cashback: up to 20%.\nA return on activity at the end of the week\n\n\n\n\n<\/li>\n\t    <li>• \nDaily rebate: 5%.\nExtra support for steady sessions\n\n\n\n\n<\/li>\n\t    <li>• \nDaily missions: rewards up to 88.88 per day.\nComplete goals and collect fixed prizes\n\n\n\n\n<\/li>\n\t    <li>• \nReload bonuses: up to 50% on selected days.\nBoost deposits when it suits you\n\n\n\n\n<\/li>\n\t    <li>• \nSlot tournaments: prizes up to 10,000 in prize pool.\nCompete for leaderboard positions via points\n\n\n\n\n<\/li>\n\t    <li>• \nDeposit draws: tickets per deposit, instant prizes.\nExample: 1 ticket per every 30 deposited\n\n\n\n\n<\/li>\n\t    <li>• \nSeasonal promos: free spins, bonus codes, limited-time gifts.\nBig events tied to holidays and gaming seasons\n\n\n\n\n<\/li>\n\t    <li>• \nRefer-a-friend: up to 50 per invited friend.\nInvite, play together, earn rewards\n\n\n\n\n<\/li>\n\t    <li>• \nSpecial date gifts: personal bonuses and free spins.\nPleasant surprises for active players\n\n\n\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & Betting at Intensity Casino: A Complete Lineup for Any Style\n<\/h3>\n\n<p>\nAt Intensity Casino, we built a library where it’s easy to find the right game for your mood and bankroll. Slots take center stage—from classics to modern video titles with bonus buys and megaways mechanics. If you enjoy strategy, you’ll find table games with flexible limits and rule variations. In live casino, you get real atmosphere: dealers, live rounds, fast pace, and true table energy. We support jackpot games where every spin moves the prize pool forward. For quick results, we offer instant-win games that suit short sessions. Quality matters to us: smooth graphics, stable mobile performance, and easy search by provider and features. In slots, you can choose volatility—either frequent wins or high-impact hits. In table games, you can select rule sets that feel familiar. We also offer a sportsbook section for players who love analysis and predictions. Everything follows one goal: maximum choice and enjoyment with speed and convenience.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame categories\n<\/h4>\n\n <ul>\n            <li>• \nPokies \/ slots: classic, video, Megaways, Bonus Buy, themed series\n\n<\/li>\n            <li>• \nJackpots: progressive and fixed pools with big potential\n\n<\/li>\n            <li>• \nTable games: roulette, blackjack, baccarat, poker variants\n\n<\/li>\n            <li>• \nLive casino: live roulette, live blackjack, live baccarat, show games\n\n<\/li>\n\t    <li>• \nVideo poker: multiple formats with different pacing\n\n<\/li>\n\t    <li>• \nInstant games: fast rounds for quick sessions\n\n<\/li>\n\t    <li>• \nSports betting: pre-match lines and live betting on top sports\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Intensity Casino\n<\/h3>\n\n<p> \nWe keep bet ranges flexible so you can play comfortably with smaller amounts or scale up to bigger stakes. Every section includes suitable limits—from careful test bets to confident high-value play. This helps you manage bankroll, control pace, and choose the best strategy for each game type. Clear limits also support tournament play and mission progress, where consistency and control matter.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #141414;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #FBBB1B; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (pokies)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports betting<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nIntensity Casino Tournaments & Leaderboards: How to Join and Win\n<\/h3>\n\n<p>\nWe run tournaments and leaderboards to keep entry simple and competition fair, fast, and exciting. You pick an event in the promotions area, register in one click, and play the listed games or categories. Points are tracked automatically so you can focus on gameplay instead of calculations. In slot tournaments, scoring usually factors in spins and total wagering, often with activity weighting to reward steady play. Some events include point multipliers during specific hours or on featured games of the week. In live events, scoring more often reflects bet size per round and the number of hands played. Time can matter too, especially in short-session races where fast scoring is key. Your position updates as you play, showing exactly how many points you need to climb. Prizes are credited after the event ends and results are checked, then shown in your profile or bonus area. We keep prize collection easy: most rewards credit automatically, while larger prizes may require verification for security. To win more often, choose comfortable limits, play consistently, and use promo boosters when available. Tournaments and leaderboards turn active play into an extra stream of prizes and excitement.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick tips\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: open promos → choose tournament → click “Join” → play eligible games\n\n<\/li>\n            <li>• \nHow points work: based on bet\/spins\/rounds, sometimes time and event multipliers\n\n<\/li>\n            <li>• \nWhat matters most: consistency + smart staking + “boost hours” participation\n\n<\/li>\n            <li>• \nHow to claim prizes: automatic credit to bonus area; larger prizes follow standard checks\n\n<\/li>\n\t    <li>• \nHow to track rank: real-time leaderboard + your progress and gap to the next spot\n\n<\/li>\n\t    <li>• \nStrategy: pick tournament games with comfortable volatility and keep a steady pace\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How fast is account verification?",
+                            "answer": "Verification typically takes a few hours up to 48 hours, especially when documents are clear and match your profile details.\n\n\n"
+                        },
+                        {
+                            "title": "Which documents are accepted for verification?",
+                            "answer": "We accept standard identity documents plus proof of address to protect your account and cashouts.\n\n\n"
+                        },
+                        {
+                            "title": "Can I use bonuses in the live section?",
+                            "answer": "Yes. We often run offers that apply to live games, including dedicated bonuses for live tables and events.\n\n\n"
+                        },
+                        {
+                            "title": "Can I set limits for responsible play?",
+                            "answer": "Yes. You can set deposit, betting, and session-time limits, and enable time-outs or self-exclusion via support.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

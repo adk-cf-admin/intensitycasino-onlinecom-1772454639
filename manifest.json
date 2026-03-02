@@ -1,0 +1,19 @@
+{
+  "name": "Intensity Casino",
+  "short_name": "Intensity Casino",
+  "theme_color": "",
+  "background_color": "#FEFEFE",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772451926-97e5948702b66c1a57bab.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
